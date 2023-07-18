@@ -1,1 +1,5 @@
-# Application-of-Deep-Learning-Algorithms-for-Bipolar-Disorder-Symptom-Prediction
+Bipolar disorder, also known as manic depression, is a mental illness that leads to unusual mood swings, affecting energy levels, activity, concentration, and daily functioning. Individuals with bipolar disorder experience periods of excessive happiness and energy, followed by intense sadness, hopelessness, and sluggishness. In between these episodes, they typically return to a more balanced emotional state.
+
+The primary objective of this project was to employ AI and various deep learning algorithms to analyze patient data based on symptoms. The goal was to develop accurate prediction models capable of identifying the current or potential episodes a patient might experience. Simultaneously, the study aimed to determine the most effective algorithm for achieving this task.
+
+The innovative use of new technologies, such as AI, to support improved diagnosis can provide valuable assistance to both patients and psychiatrists in managing this complex disorder effectively. By better understanding and predicting bipolar episodes, tailored treatment plans can be developed, enhancing the overall quality of life for those affected by this condition.
